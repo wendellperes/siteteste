@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>stes</h1>
+    <h1>Site Misie</h1>
+    <p>testeTeste</p>
 </body>
 </html>
+<?php
+<h1>teste</h1>
+
+?>
